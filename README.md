@@ -1,1 +1,28 @@
 # RBXDefender
+## Open-Source Anti-Cheat System for Roblox Games
+
+RBXDefender empowers Roblox developers to protect their games from exploiters with a modular, tiered anti-cheat system designed by a cool guy. Whether you want a lightweight solution or professional-grade automation with Roblox’s Ban API, RBXDefender has you covered.
+
+# JOINING THE DISCORD IS REQUIRED. (13+)
+https://discord.gg/YmQbcRTj2b
+It contains vital policy info and where to get updates.
+Features
+Tiered Protection:
+
+Lite: Simple and lightweight checks for minimal overhead
+Core: More advanced detection balancing complexity and power with Roblox's Ban API abillity.
+Pro: Adds webhook and API integration for real-time alerts
+Elite (Paid): Full automation including Roblox advanced Ban API integration and auto-reporting
+Easy to integrate — drop scripts into your Roblox game
+
+Open-source & MIT licensed — use, modify, and contribute with credit
+
+Built with insights from an ex-exploiter for real-world cheat prevention
+
+Installation
+Clone or download this repository
+Choose the tier scripts you want to use
+Follow the setup instructions in the /docs folder (coming soon!)
+Customize configs as needed
+DO NOT reupload RBXDefender or its components to the Roblox Creator Marketplace.
+Doing so violates the intended MIT licensing model and may subject you to DMCA takedown.
